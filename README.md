@@ -16,8 +16,7 @@ Foi realizada a implementaçao utilizando javascript + React. Assim obtendo os s
 
 
 
-Para inicializar o projeto primeiramente clone o repositorio, logo em seguida:
+  Para inicializar o projeto primeiramente clone o repositorio, logo em seguida:
 * Yarn Install / Npm Install
-assim que acabar de instalar as dependencias digite:
-
-Yarn start/ npm start
+* Assim que acabar de instalar as dependencias digite:
+* Yarn start/ npm start
